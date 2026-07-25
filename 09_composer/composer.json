@@ -1,0 +1,17 @@
+{
+    "name": "samee/testing",
+    "autoload": {
+        "psr-4": {
+            "Samee\\Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sameer Kamran",
+            "email": "sameerkamrandev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^8.0"
+    }
+}
