@@ -1,0 +1,17 @@
+{
+    "name": "samee/dependency_injection",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sameer Kamran",
+            "email": "sameerkamrandev@gmail.com"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^7.1"
+    }
+}
