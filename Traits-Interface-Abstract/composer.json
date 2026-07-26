@@ -1,0 +1,15 @@
+{
+    "name": "samee/traits-interface-abstract",
+    "autoload": {
+        "psr-4": {
+            "Samee\\TraitsInterfaceAbstract\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sameer Kamran",
+            "email": "sameerkamrandev@gmail.com"
+        }
+    ],
+    "require": {}
+}
