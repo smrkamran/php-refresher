@@ -1,0 +1,17 @@
+{
+    "name": "samee/config",
+    "autoload": {
+        "psr-4": {
+            "Samee\\Config\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sameer Kamran",
+            "email": "sameerkamrandev@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
