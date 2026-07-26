@@ -1,0 +1,17 @@
+{
+    "name": "samee/routing",
+    "autoload": {
+        "psr-4": {
+            "Samee\\Routing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sameer Kamran",
+            "email": "sameerkamrandev@gmail.com"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2"
+    }
+}
